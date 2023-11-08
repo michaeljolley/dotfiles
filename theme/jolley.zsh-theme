@@ -1,7 +1,7 @@
 
 # User colored by priviliges (if not overridden in username abbreviation)
 local path_string="%{$fg[cyan]%}%~"
-local prompt_string="$fg[green]»$fg[white]"
+local prompt_string="$fg[yellow]»$fg[white]"
 
 # From agnoster theme; Indicate if background jobs are running
 job_status() {
