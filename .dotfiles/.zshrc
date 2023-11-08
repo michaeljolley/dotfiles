@@ -11,3 +11,5 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 source $HOME/.aliases
+
+cd "$HOME/sources"
