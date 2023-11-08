@@ -1,0 +1,16 @@
+## Git Aliases
+
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit '
+alias gd='git diff'
+alias go='git checkout '
+alias gcl='git clone '
+alias gpl='git pull'
+alias gps='git push '
+alias gm='git merge '
+alias gr='git reset '
+
+## VS Code Aliases
+alias code='code-insiders '
